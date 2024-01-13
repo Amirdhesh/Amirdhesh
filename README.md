@@ -1,5 +1,5 @@
 ## Hey! I'm Amirdhesh 👋
-### I am an undergraduate student (2021-2025) 🧑‍🎓. I have been constantly learning and building web applications and APIs using _Python_ and _React_.
+### I am an undergraduate student (2021-2025) 🧑‍🎓. I have been constantly learning and building web applications and APIs using <span style="color:blue">_Python_ </span> and <span style = "color: blue">_React_ </span>.
 <!--
 **Amirdhesh/Amirdhesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
