@@ -8,6 +8,7 @@
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"/>
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"/>
 <img align="left" alt="Javascript" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"/>
+
 ## Libraries and Framworks :
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"  />
 <img align="left" alt="Flask" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" />
