@@ -1,4 +1,4 @@
-## Hey! I'm Amirdhesh 👋
+### Hey! I'm Amirdhesh 👋
 **I am an undergraduate student (2021-2025) 🧑‍🎓. I have been constantly learning and building web applications and APIs using _React_ and _Python_ 💻🚀.**
 
 ## Languages and Databases :
@@ -24,10 +24,23 @@
 <br>
 
 ## Tools :
+
 <img align="left" alt="postman" width="40px" src="https://cdn.worldvectorlogo.com/logos/postman.svg"/>
 <img align="left" alt="github" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"/>
 <img align="left" alt="Docker" width="40px" src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing-thumbnail.png" />
 <img align="left" alt="Figma" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" />
 
+<br>
 
+## Social :
+
+[<img align="left" alt="Amirdhesh| LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Amirdhesh | LinkedIn" width="30px" src="https://img.freepik.com/premium-vector/purple-gradiend-social-media-logo_197792-1883.jpg" />][instagram]
+[<img align="left" alt="Amirdhesh| LinkedIn" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />][X]
+
+
+[linkedin]: https://www.linkedin.com/in/amirdhesh-s-0a2967224/
+[instagram]: https://www.instagram.com/_.amirdhesh._/
+[X]: https://twitter.com/AmirDhesh
+<br>
 
