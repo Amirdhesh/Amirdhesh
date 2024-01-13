@@ -32,7 +32,7 @@
 
 <br>
 
-## Social :
+## You can find me on :
 
 [<img align="left" alt="Amirdhesh| LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="Amirdhesh | LinkedIn" width="30px" src="https://img.freepik.com/premium-vector/purple-gradiend-social-media-logo_197792-1883.jpg" />][instagram]
