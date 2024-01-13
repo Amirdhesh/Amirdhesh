@@ -21,5 +21,13 @@
 <img align="left" alt="FastAPI" width="40px" src="https://raw.githubusercontent.com/github/explore/5deae0f0b95cec79f799c152535ca275e64595bb/topics/fastapi/fastapi.png"  />
 <img align="left" alt="SQLModel" width="40px" src="https://sqlmodel.tiangolo.com/img/logo-margin/logo-margin-vector.svg"  />
 
+<br>
+
+## Tools :
+<img align="left" alt="postman" width="40px" src="https://cdn.worldvectorlogo.com/logos/postman.svg"/>
+<img align="left" alt="github" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"/>
+<img align="left" alt="Docker" width="40px" src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing-thumbnail.png" />
+<img align="left" alt="Figma" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" />
+
 
 
