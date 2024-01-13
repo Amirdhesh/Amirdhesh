@@ -1,6 +1,7 @@
 ## Hey! I'm Amirdhesh 👋
 **I am an undergraduate student (2021-2025) 🧑‍🎓. I have been constantly learning and building web applications and APIs using _React_ and _Python_ 💻🚀.**
-## Library and Framworks :
+## Languages :
+[<img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-5.gif"]
 <!--
 **Amirdhesh/Amirdhesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
