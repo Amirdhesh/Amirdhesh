@@ -8,6 +8,12 @@
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"/>
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"/>
 <img align="left" alt="Javascript" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"/>
+## Libraries and Framworks :
+<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"  />
+<img align="left" alt="Flask" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" />
+<img align="left" alt="TailwindCSS" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" />
+<img align="left" alt="FastAPI" width="40px" src="https://raw.githubusercontent.com/github/explore/5deae0f0b95cec79f799c152535ca275e64595bb/topics/fastapi/fastapi.png"  />
+<img align="left" alt="SQLModel" width="40px" src="https://sqlmodel.tiangolo.com/img/logo-margin/logo-margin-vector.svg"  />
 
 
 
